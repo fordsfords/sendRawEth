@@ -37,7 +37,8 @@ int main(int argc, char *argv[])
 	int tx_len = 0;
 	char sendbuf[BUF_SIZ];
 	struct ether_header *eh = (struct ether_header *) sendbuf;
-	struct iphdr *iph = (struct iphdr *) (sendbuf + sizeof(struct ether_header));
+
+/*	struct iphdr *iph = (struct iphdr *) (sendbuf + sizeof(struct ether_header)); */
 	struct sockaddr_ll socket_address;
 	char ifName[IFNAMSIZ];
 	
