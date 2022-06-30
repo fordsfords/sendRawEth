@@ -1,3 +1,7 @@
+/* sendRawEth.c - send raw ethernet packet. This was copied from austinmarton's
+ * "sendRawEth.c" gist: https://gist.github.com/austinmarton/1922600
+ * This version's home is https://github.com/fordsfords/sendRawEth */
+
 /*
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
