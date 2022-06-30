@@ -1,12 +1,14 @@
 # sendRawEth
 
-This was copied from [austinmarton/sendRawEth.c](https://gist.github.com/austinmarton/1922600).
+Construct and send a raw ethernet packet from a Linux system.
 
-I made it a full repo.
+This was originally copied from [austinmarton/sendRawEth.c](https://gist.github.com/austinmarton/1922600).
+
+I made it a full repo and made other changes.
 
 ## License
 
-Unlike most of my repos, this one inherits the license of the original
+Unlike most of my repos, this one inherits the viral license from the original
 author.
 
 This program is free software: you can redistribute it and/or modify
